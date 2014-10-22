@@ -1,0 +1,4 @@
+mean
+====
+
+trying mean stack
